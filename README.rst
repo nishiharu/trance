@@ -2,6 +2,8 @@
 Trance Parser
 =============
 
+THIS REPO IS FOR CODE LEARNING -- NISHIHARU
+
 Trance parser is an implementation of transition-based neural
 constituent parsing [1]_, a transition-based parser with neural
 networks to score all the derivation histories.
